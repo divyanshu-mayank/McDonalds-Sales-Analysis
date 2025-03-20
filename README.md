@@ -1,6 +1,6 @@
 # McDonalds-Sales-Analysis
 
-This project analyzes the sales data McDonald's in South America based on inputs like KPIs, Sales Figure and Customer Satisfaction Report.
+This project analyzes the McDonald's sales data in South America based on inputs like KPIs, Sales Figure and Customer Satisfaction Report.
 
 Following Dashboard summarises the graphical representation of various sales factors.
 
